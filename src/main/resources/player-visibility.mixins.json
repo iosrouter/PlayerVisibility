@@ -7,13 +7,22 @@
   "mixins": [
   ],
   "client": [
-    "entity.LivingEntityRendererMixin",
-    "entity.PlayerEntityRendererMixin",
-    "fire.FireMixin",
-    "hitbox.HitboxMixin",
-    "label.LabelMixin",
-    "label.PlayerLabelMixin",
-    "shadow.ShadowMixin"
+    "entity.LivingEntityRendererMixinv115m1206",
+    "entity.LivingEntityRendererMixinv1212m1218",
+    "entity.LivingEntityRendererMixinv121m1211",
+    "fire.FireMixinv115m1202",
+    "fire.FireMixinv1203m1211",
+    "fire.FireMixinv1212m1218",
+    "hitbox.HitboxMixinv115m1206",
+    "hitbox.HitboxMixinv1215m1218",
+    "hitbox.HitboxMixinv121m1214",
+    "hitbox.HitboxRaycastMixinv1215m1218",
+    "hitbox.BlockDigPacketMixinv1215m1218.java",
+    "hitbox.PlayerActionC2SPacketAccessor.java",
+    "hitbox.HitboxRaycastMixinv1215m1218.java",
+    "shadow.ShadowMixinv115m1211",
+    "shadow.ShadowMixinv1212m1214",
+    "shadow.ShadowMixinv1215m1218"
   ],
   "injectors": {
     "defaultRequire": 1
